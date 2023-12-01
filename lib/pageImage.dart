@@ -38,7 +38,7 @@ class _pageImageState extends State<pageImage> {
   double _green = 0;
   double _blue = 0;
   bool _switchColors = false;
-  bool _menu = true;
+  bool _menu = false;
 
   @override
   void initState() {
@@ -76,7 +76,7 @@ class _pageImageState extends State<pageImage> {
               _bringht = 0;
               _contrast = 0;
               _saturation = 0;
-              _menu = true;
+              _menu = false;
               _red = 0;
               _green = 0;
               _blue = 0;
