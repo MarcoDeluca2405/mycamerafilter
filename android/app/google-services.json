@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722260502638",
+    "project_id": "mycamerafilter",
+    "storage_bucket": "mycamerafilter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722260502638:android:5fade66d6530050438de7f",
+        "android_client_info": {
+          "package_name": "com.example.mycamerafilter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIUE2mCKd_t90DAo0fsbx2vnChr8vV5nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
